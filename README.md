@@ -1,5 +1,4 @@
-# encriptador y desencriptador
-encriptador y desencriptador programa ONE de Oracle + Alura 
+#encriptador y desencriptador
 
 Esta es mi versión del 🔒1 CHALLENGE DE ALURA-ORACLE ONE 🔓
 
@@ -9,8 +8,10 @@ La meta era crear un programa en donde se pudiera lograr un encriptados para com
 
 REQUISITOS Y FUNCIONAMIENTO
 
-Todo el texto debe ser con letras minúsculas y sin acentos o carácteres especiales.
+Todo el texto debe ser con letras minúsculas y sin acentos o caracteres especiales.
+
 Debe tener 3 botones uno para "encriptar", "desencriptar" y por último para "copiar" en portapapeles.
+
 Las vocales serían reemplazadas de la siguiente manera: 
 
 "a" :  "ai"
