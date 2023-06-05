@@ -1,2 +1,2 @@
-# encriptador
+# encriptador y desencriptador
 encriptador y desencriptador programa ONE de Oracle + Alura 
